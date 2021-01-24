@@ -1,4 +1,4 @@
-package com.example.curso;
+package com.example.curso.resource;
 
 import java.util.List;
 
